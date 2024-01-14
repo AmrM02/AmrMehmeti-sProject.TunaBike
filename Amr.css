@@ -1,0 +1,121 @@
+Amr.css
+
+
+ 
+
+
+body {
+            
+
+        margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            overflow: hidden;
+           
+        }
+
+        header {
+            background-image: url('carbon-fiber-texture-vector-background-260nw-343896632.webp');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-align: center;
+            padding: 1em 0;
+            
+        }
+
+        nav {
+            background-color: #28282b;
+            padding: 0.5em 0;
+            text-align: center;
+            display: flex;
+
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 1em;
+            margin: 0 1em;
+            display: flex;
+        }
+
+        nav a:hover {
+            background-color: black;
+            display: flex;
+        }
+
+        .container {
+            max-width: 5000px;
+            margin:  auto;
+            padding: 20px;
+            margin-right: 0px;
+           
+            background-image: url('photo-1532298229144-0ec0c57515c7.avif');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-align: center;
+            
+        }
+
+        section {
+            margin: 20px 0;
+            background-color: transparent;
+            background-image: url('photo-1532298229144-0ec0c57515c7.avif');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-align: top;
+            display: flex;
+            height: 100vh;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-size: 50px;
+
+        }
+footer {
+    background-color: #28282b;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+ 
+ .am-button-container {
+            margin-top: 10px;
+        }
+
+        .am-button {
+            display: inline-block;
+            width: 150px;
+            height: 40px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+            border: 2px solid #3498db;
+            color: #3498db;
+            border-radius: 8px;
+            margin-right: 50px; 
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .am-button:hover {
+            background-color: #3498db;
+            color: #fff;
+        }
+
+
+
+
+
+
+
+

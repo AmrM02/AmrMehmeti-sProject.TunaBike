@@ -1,0 +1,150 @@
+AmrContacts.css
+
+body {
+            
+
+        margin: 20px;
+            padding: 100%;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            overflow: hidden;
+           
+        }
+
+        header {
+            background-image: url('carbon-fiber-texture-vector-background-260nw-343896632.webp');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-align: center;
+            padding: 1em 0;
+            
+        }
+
+        nav {
+            background-color: #28282b;
+            padding: 0.5em 0;
+            text-align: center;
+            display: flex;
+
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 1em;
+            margin: 0 1em;
+            display: flex;
+        }
+
+        nav a:hover {
+            background-color: black;
+            display: flex;
+        }
+
+        .container {
+            max-width: 750px;
+            margin:  auto;
+            padding: 20px;
+            margin-right: 350px;
+ 
+           background-color: transparent;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-align: center;
+
+            
+        }
+
+        section {
+            margin: 20px 0;
+            background-color: transparent;
+            background-image: url('photo-1532298229144-0ec0c57515c7.avif');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-align: top;
+            display: flex;
+            height: 100vh;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-size: 50px;
+
+        }
+footer {
+    background-color: #28282b;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #28282b;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+      color: white;
+    }
+
+    th {
+      background-color: #4CAF50;
+      color: white;
+    }
+
+    input {
+      width: calc(100% - 20px);
+      padding: 10px;
+      box-sizing: border-box;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .am-contents-Contacts{
+    	margin-top: 0 !important;
+    	margin-bottom: 0 !important;
+    }
+
+    h3{
+        color: #0096ff;
+        font-size: 25px;
+    }
+
+    .am-social-media-links {
+      margin-top: 0px;
+      margin-left: 1000px;
+      margin-bottom: 0px;
+      size: 1000px;
+      
+    }
+
+    .am-social-media-links a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+      font-size: 30px;
+    }
+    .am-social-media-links td {
+      text-align: center;
+          }
